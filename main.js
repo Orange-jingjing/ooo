@@ -9,3 +9,4 @@ let dev2 = 'new dev2';
 let orange = 'orange';
 let ping = 'pink';
 let mster = 'masterf分支----';
+let master1 = '000';
