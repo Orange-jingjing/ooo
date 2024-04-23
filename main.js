@@ -11,3 +11,4 @@ let ping = 'pink';
 let mster = 'masterf分支----';
 let master1 = '000';
 let jxj2 = 'jxj2的分支';
+let jxj2a = '22222';
