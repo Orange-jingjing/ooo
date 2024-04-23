@@ -8,3 +8,4 @@ const e = 4;
 let dev2 = 'new dev2';
 let orange = 'orange';
 let ping = 'pink';
+let mster = 'master分支的内容';
